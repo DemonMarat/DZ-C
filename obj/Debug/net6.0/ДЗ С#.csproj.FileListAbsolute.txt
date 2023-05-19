@@ -1,0 +1,15 @@
+C:\Users\Dwarf\Desktop\ДЗ С#\bin\Debug\net6.0\ДЗ С#.exe
+C:\Users\Dwarf\Desktop\ДЗ С#\bin\Debug\net6.0\ДЗ С#.deps.json
+C:\Users\Dwarf\Desktop\ДЗ С#\bin\Debug\net6.0\ДЗ С#.runtimeconfig.json
+C:\Users\Dwarf\Desktop\ДЗ С#\bin\Debug\net6.0\ДЗ С#.dll
+C:\Users\Dwarf\Desktop\ДЗ С#\bin\Debug\net6.0\ДЗ С#.pdb
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.csproj.AssemblyReference.cache
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.AssemblyInfoInputs.cache
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.AssemblyInfo.cs
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.csproj.CoreCompileInputs.cache
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.dll
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\refint\ДЗ С#.dll
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.pdb
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ДЗ С#.genruntimeconfig.cache
+C:\Users\Dwarf\Desktop\ДЗ С#\obj\Debug\net6.0\ref\ДЗ С#.dll
