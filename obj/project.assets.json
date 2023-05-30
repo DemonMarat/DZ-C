@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dwarf\\Desktop\\ДЗ С#\\ДЗ С#.csproj",
+      "projectUniqueName": "D:\\Учеба айти\\ДЗ С#\\DZ-C-4\\ДЗ С#.csproj",
       "projectName": "ДЗ С#",
-      "projectPath": "C:\\Users\\Dwarf\\Desktop\\ДЗ С#\\ДЗ С#.csproj",
+      "projectPath": "D:\\Учеба айти\\ДЗ С#\\DZ-C-4\\ДЗ С#.csproj",
       "packagesPath": "C:\\Users\\Dwarf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dwarf\\Desktop\\ДЗ С#\\obj\\",
+      "outputPath": "D:\\Учеба айти\\ДЗ С#\\DZ-C-4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dwarf\\AppData\\Roaming\\NuGet\\NuGet.Config"
